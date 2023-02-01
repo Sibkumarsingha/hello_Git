@@ -1,0 +1,2 @@
+This is a file that explains the basic understanding of projects how to to pull and push
+from local git repository to remote github repository.
